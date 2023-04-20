@@ -1,3 +1,3 @@
-module github.com/xxarchexx/testmod/v4
+module github.com/xxarchexx/testmod
 
 go 1.20
